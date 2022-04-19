@@ -71,6 +71,13 @@ LinkedIn: <a href="https://www.linkedin.com/in/jose-lopez-81a729122/">Jose Lopez
 </p>
 
 
+<h3>Certifications:</h3>
+<p align="left">
+From freeCodeCamp:<br>
+<strong>Responsive Web Design.</strong><br>
+<strong>JavaScript Algorithms and Data Structures certificaction.</strong>
+</p>
+
 <!--
 **joslo2345/joslo2345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
