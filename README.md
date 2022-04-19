@@ -25,6 +25,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/joslo2345/joslo2345/blob/main/source/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/joslo2345/joslo2345/blob/main/source/icons8-django.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/joslo2345/joslo2345/blob/main/source/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/joslo2345/joslo2345/blob/main/source/logo-fastapi.png" alt="fastapi" width="40" height="40"/> </a>
 </p>
 
 <h3>BackEnd stack:</h3>
@@ -60,6 +61,7 @@
 <h3>OS:</h3>
 <p>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/joslo2345/joslo2345/blob/main/source/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.apple.com/macos" target="_blank" rel="noreferrer"> <img src="https://github.com/joslo2345/joslo2345/blob/main/source/apple-logo_f8ff.png" alt="macos" width="40" height="40"/> </a>
 </p>
 
 
