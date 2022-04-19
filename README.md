@@ -75,7 +75,7 @@ LinkedIn: <a href="https://www.linkedin.com/in/jose-lopez-81a729122/">Jose Lopez
 <p align="left">
 From freeCodeCamp:<br>
 <strong>Responsive Web Design.</strong><br>
-<strong>JavaScript Algorithms and Data Structures certificaction.</strong>
+<strong>JavaScript Algorithms and Data Structures.</strong>
 </p>
 
 <!--
