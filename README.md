@@ -67,7 +67,7 @@ LinkedIn: <a href="https://www.linkedin.com/in/jose-lopez-81a729122/">Jose Lopez
 <p align="left" style="background-color:white">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/joslo2345/joslo2345/blob/main/source/linux-original.svg" alt="linux" width="50" height="50"/> </a>
 <a href="https://www.apple.com/macos" target="_blank" rel="noreferrer"> <img src="https://github.com/joslo2345/joslo2345/blob/main/source/apple-logo_f8ff.png" alt="macos" width="50" height="50"/> </a>
-<a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"> <img src="https://github.com/joslo2345/joslo2345/blob/main/source/RE1Mu3b.png" alt="windowsos" width="70" height="50"/> </a>
+<a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"> <img src="https://github.com/joslo2345/joslo2345/blob/main/source/RE1Mu3b.png" alt="windowsos" width="90" height="50"/> </a>
 </p>
 
 
