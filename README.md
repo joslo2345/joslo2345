@@ -7,6 +7,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+Email: joslo2345contact@gmail.com<br>
+LinkedIn: <a href="https://www.linkedin.com/in/jose-lopez-81a729122/">Jose Lopez</a>
+</p>
+
+<p align="left">
 </p>
 
 <h3 align="left">Programming Languages:</h3>
