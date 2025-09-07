@@ -10,7 +10,7 @@ I love a good challenge (and collecting my Pokemon cards). My passion is combini
 - 😄 Pronouns: He/Him 💁🏻‍♂️
 - ⚡ Fun facts: 
    - I love matcha. 
-   - I am also an Bachata and Salsa dancer! 🕺🏻
+   - I am also a Bachata and Salsa dancer! 🕺🏻
    - I love to spoil my Girlfriend (and poke her 👀) (P.S. Her name means Princess 👸)
 
 <h3 align="left">Connect with me:</h3>
