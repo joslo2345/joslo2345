@@ -27,7 +27,7 @@ LinkedIn: <a href="https://www.linkedin.com/in/jose-lopez23/">Jose Lopez</a>
 ![](https://img.shields.io/badge/Cloud_Services-AWS,_Azure,_Google_Cloud-blue)<br>
 ![](https://img.shields.io/badge/Software-Git,_Shell_Scripting-blue)<br>
 ![](https://img.shields.io/badge/Others-Arduino,_MatLab,_OpenCV-blue)<br>
-![](https://img.shields.io/badge/Operating_Systems,_Linux,_MacOS,_Windows-blue)<br>
+![](https://img.shields.io/badge/Operating_Systems-Linux,_MacOS,_Windows-blue)<br>
 
 
 
