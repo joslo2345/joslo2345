@@ -22,10 +22,19 @@ LinkedIn: <a href="https://www.linkedin.com/in/jose-lopez23/">Jose Lopez</a>
 </p>
 <h1>🛠️ Technologies and Tools:</h1>
 
+<h2>Frontend</h2>
+
 ![](https://img.shields.io/badge/Programming_Languages-C,_C++,_Python,_Javascript-blue)<br>
 ![](https://img.shields.io/badge/Frameworks-Vue.js,_Angular,_Django,_Flask,_FastAPI,_Node.js,_Express.js-blue)<br>
+
+<h2>Backend</h2>
+
+![](https://img.shields.io/badge/Frameworks-Django,_Flask,_FastAPI,_Node.js,_Express.js-blue)<br>
 ![](https://img.shields.io/badge/Databases-MongoBD,_MySQL-blue)<br>
 ![](https://img.shields.io/badge/Testing-Selenium,_Postman,_Jest.js-blue)<br>
+
+<h2>Tools & Infrastructure</h2>
+
 ![](https://img.shields.io/badge/Cloud_Services-AWS,_Azure,_Google_Cloud-blue)<br>
 ![](https://img.shields.io/badge/Software-Git,_Shell_Scripting-blue)<br>
 ![](https://img.shields.io/badge/Others-Arduino,_MatLab,_OpenCV-blue)<br>
