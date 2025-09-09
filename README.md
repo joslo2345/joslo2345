@@ -1,9 +1,11 @@
 <h1 align="left">Hi 👋, I'm Jose</h1>
-<h3 align="left">A Mexican full-stack developer based in a rainy and tech city, Seattle WA US! .</h3>
+<h3 align="left"><strong>A Mexican Electrical Engineer and full-stack developer based in a rainy and techie city, Seattle, WA.</strong><br>
+I bring the heat from a rainy city, building smart solutions from the hardware up to the cloud.
+</h3>
 
-I love a good challenge (and collecting my Pokemon cards). My passion is combining cloud programming, AI, and hardware solutions to build smart and efficient systems that get the job done faster 😎🤖🦾.
+I am an innovator who loves a good challenge, whether building innovative tech or tracking down a rare Pokémon card.. My passion is combining cloud programming, AI, and hardware solutions to build smart and efficient systems that get the job done faster 😎🤖🦾.
 
-- 🔭 I'm currently exploring new opportunities as a Software Developer or AI Developer. For the past + years, I've been busy creating and implementing multiple APIs and frameworks on over 10 unique projects in both Mexico and the United States.
+- 🔭 I'm currently exploring new opportunities as a Software Developer or AI Developer. For the past 4 years, I've been busy creating and implementing multiple APIs and frameworks on over 10 unique projects across Mexico and the United States, working on everything from lean startup ventures to complex projects in the high-tech sector.
   I'm especially passionate about building things that make an impact. My experience even includes a stop at Microsoft, so I'm well-versed in working on large, complex systems. Looking forward to finding my next team!
 - 🌱 I’m currently learning about ***LLMs*** and taking ***IOS Apps Development course***.
 - 😄 Interest: learning new things (everything! Including Music Theory and Cooking).
@@ -13,7 +15,7 @@ I love a good challenge (and collecting my Pokemon cards). My passion is combini
    - I am also a Bachata and Salsa dancer! 🕺🏻
    - I love to spoil my Girlfriend (and poke her 👀) (P.S. Her name means Princess 👸)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Chat!</h3>
 <p align="left">
 Email: joslo2345contact@gmail.com<br>
 LinkedIn: <a href="https://www.linkedin.com/in/jose-lopez23/">Jose Lopez</a>
