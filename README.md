@@ -25,7 +25,7 @@ LinkedIn: <a href="https://www.linkedin.com/in/jose-lopez23/">Jose Lopez</a>
 <h2>Frontend</h2>
 
 ![](https://img.shields.io/badge/Programming_Languages-C,_C++,_Python,_Javascript-blue)<br>
-![](https://img.shields.io/badge/Frameworks-Vue.js,_Angular,_Django,_Flask,_FastAPI,_Node.js,_Express.js-blue)<br>
+![](https://img.shields.io/badge/Frameworks-Vue.js,_Angular-blue)<br>
 
 <h2>Backend</h2>
 
