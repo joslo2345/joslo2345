@@ -13,7 +13,7 @@ I am an innovator who loves a good challenge, whether building innovative tech o
 - ⚡ Fun facts: 
    - I love matcha. 
    - I am also a Bachata and Salsa dancer! 🕺🏻
-   - I love to spoil my Girlfriend (and poke her 👀) (P.S. Her name means Princess 👸)
+   - I love to spoil my Wife (and poke her 👀)
 
 <h3 align="left">Let's Chat!</h3>
 <p align="left">
