@@ -24,7 +24,7 @@ LinkedIn: <a href="https://www.linkedin.com/in/jose-lopez23/">Jose Lopez</a>
 
 <h2>Frontend</h2>
 
-![](https://img.shields.io/badge/Programming_Languages-C,_C++,_Python,_Javascript-blue)<br>
+![](https://img.shields.io/badge/Programming_Languages-C,_C++,_Python,_Javascript,_Rust-blue)<br>
 ![](https://img.shields.io/badge/Frameworks-Vue.js,_Angular-blue)<br>
 
 <h2>Backend</h2>
@@ -36,7 +36,7 @@ LinkedIn: <a href="https://www.linkedin.com/in/jose-lopez23/">Jose Lopez</a>
 <h2>Tools & Infrastructure</h2>
 
 ![](https://img.shields.io/badge/Cloud_Services-AWS,_Azure,_Google_Cloud-blue)<br>
-![](https://img.shields.io/badge/Software-Git,_Shell_Scripting-blue)<br>
+![](https://img.shields.io/badge/Software-Git,_Shell_Scripting,_Claude_code-blue)<br>
 ![](https://img.shields.io/badge/Others-Arduino,_MatLab,_OpenCV-blue)<br>
 ![](https://img.shields.io/badge/Operating_Systems-Linux,_MacOS,_Windows-blue)<br>
 
