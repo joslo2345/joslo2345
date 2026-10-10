@@ -18,7 +18,8 @@ I am an innovator who loves a good challenge, whether building innovative tech o
 <h3 align="left">Let's Chat!</h3>
 <p align="left">
 Email: joslo2345contact@gmail.com<br>
-LinkedIn: <a href="https://www.linkedin.com/in/jose-lopez23/">Jose Lopez</a>
+LinkedIn: <a href="https://www.linkedin.com/in/jose-lopez23/">Jose Lopez</a><br>
+Tips: <a href="https://ko-fi.com/joslo2345">Buy me a coffee on Ko-fi ☕</a>
 </p>
 <h1>🛠️ Technologies and Tools:</h1>
 
